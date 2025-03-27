@@ -2,7 +2,8 @@
 
 Aplicación web que muestra el clima actual usando la API de OpenWeather13 (RapidAPI).
 
-![Preview](https://i.imgur.com/8KjJb7G.png)
+![Preview]()![Capturatemperatura](https://github.com/user-attachments/assets/edb192b0-25eb-4d2f-b489-6311be396c3e)
+
 
 ## 🚀 Características
 
