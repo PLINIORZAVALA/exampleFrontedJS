@@ -15,7 +15,8 @@ Aplicación web que muestra el clima actual usando la API de OpenWeather13 (Rapi
 ## 📦 Requisitos
 
 - Navegador web moderno (Chrome, Firefox, Edge)
-- Cuenta en [RapidAPI](https://rapidapi.com/hub) (plan gratuito)
+- Cuenta en [RapidAPI]([https://rapidapi.com/hub](https://rapidapi.com/hub?utm_source=midudev&utm_medium=DevRel&utm_campaign=DevRel)) (plan gratuito)
+- Nombre de la API : API Overview
 - Python 3.x (para servidor local)
 
 ## ⚙️ Configuración
